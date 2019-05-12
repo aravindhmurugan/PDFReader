@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-05-08T01:53:53Z" name="Default suite" finished-at="2019-05-08T01:53:56Z" duration-ms="2719">
+    <groups>
+    </groups>
+    <test started-at="2019-05-08T01:53:53Z" name="Default test" finished-at="2019-05-08T01:53:56Z" duration-ms="2719">
+      <class name="com.qa.pdfreader.PDFReaderTest">
+        <test-method signature="readPDFTest()[pri:0, instance:com.qa.pdfreader.PDFReaderTest@7e6f74c]" started-at="2019-05-08T07:23:53Z" name="readPDFTest" finished-at="2019-05-08T07:23:56Z" duration-ms="2681" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readPDFTest -->
+      </class> <!-- com.qa.pdfreader.PDFReaderTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
